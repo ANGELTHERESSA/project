@@ -1,0 +1,69 @@
+span{
+    color:red;
+    text-align: center;
+    font-style: bold;
+}
+.navbar{
+    color:black;
+    border: 0px;
+    border-style: solid;
+    padding: auto;
+}
+.nav a{
+    background-color: rgb(255, 230, 0);
+    position: relative;
+    left: 80%;
+    color: black;
+    padding: 5px;
+
+}
+.nav h1{
+    text-align: center;
+    color: brown;
+    background-image: url("logo.jpg");
+}
+img{
+    height: auto;
+    position: relative;
+}
+h2,h1{
+    text-align: center;
+    color: blue;
+}
+span{
+    text-decoration: solid;
+}
+.one{
+    border: 5px;
+    border-width: 5px;
+    border-color: brown;
+    border-style: solid;
+}
+.two{
+    border: 5px;
+    border-width: 5px;
+    border-color: brown;
+    border-style: solid;
+}
+.three{
+    border: 5px;
+    border-width: 5px;
+    border-color: brown;
+    border-style: solid;
+}
+marquee{
+    position: relative;
+    
+}
+table,th,td {
+    border: 3px;
+    border-color: blue;
+    width: 50%;
+    text-align: justify;
+    border-style: solid;
+    }
+    p{
+        border: 2px;
+        border-style: double;
+        border-color: blueviolet;
+    }

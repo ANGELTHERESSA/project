@@ -1,0 +1,35 @@
+h1{
+    color: red;
+    text-align: center;
+    background-color: aquamarine;
+    border: 2px;
+    border-style: double;
+    font-style: oblique;
+    border-color: blueviolet;
+    border-radius: 5px;
+}
+#para{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:oblique;
+    border: 3px;
+    border-color: rgb(119, 255, 0); 
+    border-style: solid;
+    padding: 10px;
+}
+table,th,td {
+border: 3px;
+border-color: blue;
+width: 50%;
+text-align: justify;
+border-style: solid;
+}
+.para{
+    border: 3px;
+    border-color: rgb(255, 0, 179); 
+    border-style: solid;
+    padding: 30px 20px;
+    margin: 20px 50px;
+}
+li{
+    list-style-type: upper-roman;
+}
